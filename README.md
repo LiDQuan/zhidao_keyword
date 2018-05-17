@@ -9,6 +9,7 @@
 #####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3、由于技术问题，我将写入和更新分开，运行顺序先运行reconstruct_thread.py 进行数据爬取，再运行reconstruct_program_update_indexId.py 补充完整内容
 #####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4、依旧采用mysql数据库，在config中可以自行配置mysql数据库
 #####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5、以后可能会试着使用scrapy来做这个项目。。。据说scrapy效率很高，而且自带很多库类
+#####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6、至于用到哪些库，看reconstruct_thread.py 中的import即可，欢迎自行百度。。。
 
 *********************************
   2018年04月17日
