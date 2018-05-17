@@ -4,7 +4,7 @@
   2018年05月17日
 =
 ###  更新内容：
-#####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、重构了 v1.0版本，将代码重新编写
+#####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、重构了 v1.0版本，将代码重新编写，更新为 v2.0版本
 #####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、采用了多线程的方式爬取，解析
 #####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3、由于技术问题，我将写入和更新分开，运行顺序先运行reconstruct_thread.py 进行数据爬取，再运行reconstruct_program_update_indexId.py 补充完整内容
 #####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4、依旧采用mysql数据库，在config中可以自行配置mysql数据库
